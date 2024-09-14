@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Assignment2_kit205.c" />
+    <ClCompile Include="linkedlist.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="linkedlist.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
